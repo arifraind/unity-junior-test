@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4adcb481618b9fb42a035cc510ca748b, type: 3}
+  m_Name: DefaultSpringShop
+  m_EditorClassIdentifier: Assembly-CSharp::ShopItemData
+  itemName: Default
+  itemType: 1
+  jumpForcePercentBonus: 0
+  extraAirJumps: 0
+  givesShield: 0
+  givesDoubleCoins: 0
+  enablesChargeEffect: 0
+  characterVisualPrefab: {fileID: 0}
+  springVisualPrefab: {fileID: 5677681992004605309, guid: e63bbc1e0a92e3041b9097d06d9b9483, type: 3}
+  jumpBarFillSprite: {fileID: 0}
+  description: Default
+  icon: {fileID: -5800084127894219777, guid: 5ceadd393e5f57a4083793d7e0df9a9c, type: 3}
+  buySprite: {fileID: 4716110292536895296, guid: 4f427f14af3057a48af79ce20104731c, type: 3}
+  equipSprite: {fileID: 4716110292536895296, guid: 4f427f14af3057a48af79ce20104731c, type: 3}
+  equippedSprite: {fileID: -5206253212481422822, guid: 4f427f14af3057a48af79ce20104731c, type: 3}
+  price: 0

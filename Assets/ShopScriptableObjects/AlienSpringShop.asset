@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4adcb481618b9fb42a035cc510ca748b, type: 3}
+  m_Name: AlienSpringShop
+  m_EditorClassIdentifier: Assembly-CSharp::ShopItemData
+  itemName: Alien
+  itemType: 1
+  jumpForcePercentBonus: 0
+  extraAirJumps: 0
+  givesShield: 0
+  givesDoubleCoins: 1
+  enablesChargeEffect: 0
+  characterVisualPrefab: {fileID: 0}
+  springVisualPrefab: {fileID: 5677681992004605309, guid: 88b229511662e9f48a5d268b42071ae8, type: 3}
+  jumpBarFillSprite: {fileID: 0}
+  description: DoubleCoins
+  icon: {fileID: 3022863874897286009, guid: 5ceadd393e5f57a4083793d7e0df9a9c, type: 3}
+  buySprite: {fileID: -811833568527258031, guid: 908b355c476b5144d9891b14f946865a, type: 3}
+  equipSprite: {fileID: 4716110292536895296, guid: 4f427f14af3057a48af79ce20104731c, type: 3}
+  equippedSprite: {fileID: -5206253212481422822, guid: 4f427f14af3057a48af79ce20104731c, type: 3}
+  price: 100

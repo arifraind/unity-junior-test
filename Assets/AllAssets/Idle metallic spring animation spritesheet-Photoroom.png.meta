@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 341f2ece80a8d8c469ecff11b6b120b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4300268605524453853
+    second: Idle metallic spring animation spritesheet-Photoroom_0
+  - first:
+      213: 5398828617077356796
+    second: Idle metallic spring animation spritesheet-Photoroom_1
+  - first:
+      213: 4790857076809650763
+    second: Idle metallic spring animation spritesheet-Photoroom_2
+  - first:
+      213: 1947462293587413046
+    second: Idle metallic spring animation spritesheet-Photoroom_3
+  - first:
+      213: 2045337200467144547
+    second: Idle metallic spring animation spritesheet-Photoroom_4
+  - first:
+      213: 6319032030594179254
+    second: Idle metallic spring animation spritesheet-Photoroom_5
+  - first:
+      213: 8022769697839287209
+    second: Idle metallic spring animation spritesheet-Photoroom_6
+  - first:
+      213: -5740384998875536947
+    second: Idle metallic spring animation spritesheet-Photoroom_7
+  - first:
+      213: 6473689628590193813
+    second: Idle metallic spring animation spritesheet-Photoroom_8
+  - first:
+      213: -1908055413437492862
+    second: Idle metallic spring animation spritesheet-Photoroom_9
+  - first:
+      213: -8103476426914029908
+    second: Idle metallic spring animation spritesheet-Photoroom_10
+  - first:
+      213: -7391565712867961380
+    second: Idle metallic spring animation spritesheet-Photoroom_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle metallic spring animation spritesheet-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1179
+        width: 199
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9ac0f438f9dab30800000000000000
+      internalID: 4300268605524453853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle metallic spring animation spritesheet-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1179
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8fb14e50e7cea40800000000000000
+      internalID: 5398828617077356796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle metallic spring animation spritesheet-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1179
+        width: 209
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78c24ae9b905b848b4ef3d7df8eea7d
+      internalID: 4790857076809650763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle metallic spring animation spritesheet-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1177
+        width: 193
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2e6495c73ca4449a8984d42a9ffb1a
+      internalID: 1947462293587413046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 75afab1ff50cce8419e5f1c7b5bc6ae8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Idle metallic spring animation spritesheet-Photoroom_0: 4300268605524453853
+      Idle metallic spring animation spritesheet-Photoroom_1: 5398828617077356796
+      Idle metallic spring animation spritesheet-Photoroom_10: -8103476426914029908
+      Idle metallic spring animation spritesheet-Photoroom_11: -7391565712867961380
+      Idle metallic spring animation spritesheet-Photoroom_2: 4790857076809650763
+      Idle metallic spring animation spritesheet-Photoroom_3: 1947462293587413046
+      Idle metallic spring animation spritesheet-Photoroom_4: 2045337200467144547
+      Idle metallic spring animation spritesheet-Photoroom_5: 6319032030594179254
+      Idle metallic spring animation spritesheet-Photoroom_6: 8022769697839287209
+      Idle metallic spring animation spritesheet-Photoroom_7: -5740384998875536947
+      Idle metallic spring animation spritesheet-Photoroom_8: 6473689628590193813
+      Idle metallic spring animation spritesheet-Photoroom_9: -1908055413437492862
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

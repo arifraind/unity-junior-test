@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4adcb481618b9fb42a035cc510ca748b, type: 3}
+  m_Name: CrocShop
+  m_EditorClassIdentifier: Assembly-CSharp::ShopItemData
+  itemName: Croc
+  itemType: 0
+  jumpForcePercentBonus: 0
+  extraAirJumps: 1
+  givesShield: 0
+  givesDoubleCoins: 0
+  enablesChargeEffect: 0
+  characterVisualPrefab: {fileID: 6210784571859956084, guid: de9b95fc86cb4c746bd44b4691fa39cb, type: 3}
+  springVisualPrefab: {fileID: 0}
+  jumpBarFillSprite: {fileID: -8040083727920421495, guid: ba79623d044ae584cb0f6eab4c60337d, type: 3}
+  description: Default
+  icon: {fileID: -552248418436672745, guid: 260fb6cd0a960894c800253aa76aeacc, type: 3}
+  buySprite: {fileID: 4716110292536895296, guid: 4f427f14af3057a48af79ce20104731c, type: 3}
+  equipSprite: {fileID: 4716110292536895296, guid: 4f427f14af3057a48af79ce20104731c, type: 3}
+  equippedSprite: {fileID: -5206253212481422822, guid: 4f427f14af3057a48af79ce20104731c, type: 3}
+  price: 0

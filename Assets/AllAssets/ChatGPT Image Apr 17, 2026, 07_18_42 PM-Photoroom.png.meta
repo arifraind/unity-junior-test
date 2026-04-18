@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 6a992b211e7423d42a1eb4532459c5d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4365204970619065688
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_0
+  - first:
+      213: -4129517799906214873
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_1
+  - first:
+      213: 2119649040255718566
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_2
+  - first:
+      213: -98278917909393939
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_3
+  - first:
+      213: 2088539794027483822
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_4
+  - first:
+      213: 6939774723273161790
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_5
+  - first:
+      213: -1751408895052402262
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_6
+  - first:
+      213: 2391383676791368290
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_7
+  - first:
+      213: -7171100663069261757
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_8
+  - first:
+      213: 1061701586624443447
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_9
+  - first:
+      213: 4733162038793645008
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_10
+  - first:
+      213: -2423378571000158438
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_11
+  - first:
+      213: -2172986681372058115
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_12
+  - first:
+      213: 3341999534198699939
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_13
+  - first:
+      213: -9139820238168812873
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_14
+  - first:
+      213: -2495452132537553153
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_15
+  - first:
+      213: -5069433897147750418
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_16
+  - first:
+      213: -1326140906702002500
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_17
+  - first:
+      213: 9117073373406515599
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_18
+  - first:
+      213: -4386207069189192111
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_19
+  - first:
+      213: -5720046428972260956
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_20
+  - first:
+      213: 7283582251783720292
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_21
+  - first:
+      213: -4111452920497189101
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_22
+  - first:
+      213: 7991913148167755876
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_23
+  - first:
+      213: 7566509665377716941
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_24
+  - first:
+      213: -5440753119063477984
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_25
+  - first:
+      213: 8067634143636758394
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_26
+  - first:
+      213: 2431893360479004315
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_27
+  - first:
+      213: 2071467975419596602
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_28
+  - first:
+      213: 7416057629916441831
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_29
+  - first:
+      213: -2571825633452379910
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_30
+  - first:
+      213: 7732194587825319069
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_31
+  - first:
+      213: -7497121748911322473
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_32
+  - first:
+      213: -7160044924011706503
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_33
+  - first:
+      213: 8971393841029012518
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_34
+  - first:
+      213: -5595895936936700292
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_35
+  - first:
+      213: -8849285287033224441
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_36
+  - first:
+      213: 8046518337763013972
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_37
+  - first:
+      213: -3357714397408620091
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_38
+  - first:
+      213: -1851552465927694894
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_39
+  - first:
+      213: -7608388591949755893
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_40
+  - first:
+      213: -4478375217311518712
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_41
+  - first:
+      213: -1809938766179751974
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_42
+  - first:
+      213: -3845026134016986533
+    second: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 545
+        width: 255
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa2b72053dab63c0800000000000000
+      internalID: -4365204970619065688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 543
+        width: 255
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cffeaa07101b6c0800000000000000
+      internalID: -4129517799906214873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 546
+        width: 255
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a490fc52918a6d10800000000000000
+      internalID: 2119649040255718566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 543
+        width: 255
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedc91948d7d2aef0800000000000000
+      internalID: -98278917909393939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 537
+        width: 255
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2964a80ebfbfc10800000000000000
+      internalID: 2088539794027483822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 538
+        width: 255
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c7ee1a7580f4060800000000000000
+      internalID: 6939774723273161790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 157
+        width: 255
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa131f9a3eeb1b7e0800000000000000
+      internalID: -1751408895052402262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 154
+        width: 255
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a21d0b8c6ef2120800000000000000
+      internalID: 2391383676791368290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 145
+        width: 255
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3404039e0f12b7c90800000000000000
+      internalID: -7171100663069261757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 140
+        width: 255
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734f738c7fbebbe00800000000000000
+      internalID: 1061701586624443447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 145
+        width: 255
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dba8a20cc19fa140800000000000000
+      internalID: 4733162038793645008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 151
+        width: 255
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17ed3f770e6e5ed0800000000000000
+      internalID: -2423378571000158438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0af5c5d9f22c8ae4da1f4495129e6cc3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_0: -4365204970619065688
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_1: -4129517799906214873
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_10: 4733162038793645008
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_11: -2423378571000158438
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_12: -2172986681372058115
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_13: 3341999534198699939
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_14: -9139820238168812873
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_15: -2495452132537553153
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_16: -5069433897147750418
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_17: -1326140906702002500
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_18: 9117073373406515599
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_19: -4386207069189192111
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_2: 2119649040255718566
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_20: -5720046428972260956
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_21: 7283582251783720292
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_22: -4111452920497189101
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_23: 7991913148167755876
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_24: 7566509665377716941
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_25: -5440753119063477984
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_26: 8067634143636758394
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_27: 2431893360479004315
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_28: 2071467975419596602
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_29: 7416057629916441831
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_3: -98278917909393939
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_30: -2571825633452379910
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_31: 7732194587825319069
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_32: -7497121748911322473
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_33: -7160044924011706503
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_34: 8971393841029012518
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_35: -5595895936936700292
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_36: -8849285287033224441
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_37: 8046518337763013972
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_38: -3357714397408620091
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_39: -1851552465927694894
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_4: 2088539794027483822
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_40: -7608388591949755893
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_41: -4478375217311518712
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_42: -1809938766179751974
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_43: -3845026134016986533
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_5: 6939774723273161790
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_6: -1751408895052402262
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_7: 2391383676791368290
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_8: -7171100663069261757
+      ChatGPT Image Apr 17, 2026, 07_18_42 PM-Photoroom_9: 1061701586624443447
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 6d11a92136001844ba6bbd001a4a85c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2400687061406246003
+    second: Menu buttons with highlighted options-Photoroom_0
+  - first:
+      213: 5984137255420994590
+    second: Menu buttons with highlighted options-Photoroom_1
+  - first:
+      213: 3871012654462438481
+    second: Menu buttons with highlighted options-Photoroom_2
+  - first:
+      213: -1831306090422817577
+    second: Menu buttons with highlighted options-Photoroom_3
+  - first:
+      213: 1639103447480784805
+    second: Menu buttons with highlighted options-Photoroom_4
+  - first:
+      213: -1283653180397656042
+    second: Menu buttons with highlighted options-Photoroom_5
+  - first:
+      213: 2060601555259443349
+    second: Menu buttons with highlighted options-Photoroom_6
+  - first:
+      213: 3941828106756390271
+    second: Menu buttons with highlighted options-Photoroom_7
+  - first:
+      213: -5416388810672998938
+    second: Menu buttons with highlighted options-Photoroom_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Menu buttons with highlighted options-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 517
+        width: 451
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374eef7b924f05120800000000000000
+      internalID: 2400687061406246003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu buttons with highlighted options-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 525
+        width: 410
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14ac84e02deb0350800000000000000
+      internalID: 5984137255420994590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu buttons with highlighted options-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 520
+        width: 455
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c864eef7998b530800000000000000
+      internalID: 3871012654462438481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu buttons with highlighted options-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 720
+        width: 451
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dca65d30d4e596e0800000000000000
+      internalID: -1831306090422817577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu buttons with highlighted options-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 716
+        width: 409
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7d531b6e34fb610800000000000000
+      internalID: 1639103447480784805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu buttons with highlighted options-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 719
+        width: 457
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618e897cb3c8f2ee0800000000000000
+      internalID: -1283653180397656042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 72208166df680c145828eccba33c46aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Menu buttons with highlighted options-Photoroom_0: 2400687061406246003
+      Menu buttons with highlighted options-Photoroom_1: 5984137255420994590
+      Menu buttons with highlighted options-Photoroom_2: 3871012654462438481
+      Menu buttons with highlighted options-Photoroom_3: -1831306090422817577
+      Menu buttons with highlighted options-Photoroom_4: 1639103447480784805
+      Menu buttons with highlighted options-Photoroom_5: -1283653180397656042
+      Menu buttons with highlighted options-Photoroom_6: 2060601555259443349
+      Menu buttons with highlighted options-Photoroom_7: 3941828106756390271
+      Menu buttons with highlighted options-Photoroom_8: -5416388810672998938
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
